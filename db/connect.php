@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db = "eventmgmt";
+$db = "eventsite";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
